@@ -1,2 +1,1 @@
-# Default-Project-for-StormWarp
-free 2 use :)
+# Default Project for StormWarp
